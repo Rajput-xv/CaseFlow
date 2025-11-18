@@ -1,0 +1,11 @@
+case_id,applicant_name,dob,email,phone,category,priority
+C-1001,Asha Verma,1990-03-14,asha.verma@example.com,+919876543210,TAX,HIGH
+C-1002,John DOE,1985-12-02,john.doe@example.com,+11234567890,LICENSE,MEDIUM
+C-1003,Li Wei,1979-05-22,li.wei@example.com,+12025550123,PERMIT,LOW
+C-1004,Maria Santos,2007-01-01,maria@sample.org,+15551234567,TAX,LOW
+C-1005,Ahmed Khan,1995-08-15,ahmed.khan@example.com,+919876543211,LICENSE,HIGH
+C-1006,Emma Wilson,1988-11-22,emma.wilson@example.com,+447911123456,PERMIT,MEDIUM
+C-1007,Carlos Rodriguez,1992-04-30,carlos.r@example.com,+34612345678,TAX,LOW
+C-1008,Yuki Tanaka,1983-09-12,yuki.t@example.com,+81901234567,LICENSE,HIGH
+C-1009,Sophie Dubois,1997-06-25,sophie.d@example.com,+33612345678,PERMIT,MEDIUM
+C-1010,James Smith,1975-12-03,james.smith@example.com,+441234567890,TAX,LOW
