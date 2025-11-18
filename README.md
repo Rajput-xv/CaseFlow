@@ -49,6 +49,7 @@ CaseFlow/
 - **Database:** In-memory (for testing) - easily replaceable with PostgreSQL/MongoDB
 - **Validation:** Zod schemas
 - **Security:** CORS, helmet-ready
+- **Testing:** Vitest + Supertest
 
 ## Quick Start
 
