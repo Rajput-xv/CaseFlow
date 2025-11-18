@@ -1,5 +1,6 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { Toaster } from 'sonner';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { useAppSelector } from '@/hooks/redux';
 import AuthLayout from '@/layouts/AuthLayout';
 import DashboardLayout from '@/layouts/DashboardLayout';
@@ -45,6 +46,9 @@ function App() {
 
       {/* Global toast notifications */}
       <Toaster position="top-right" richColors closeButton />
+      
+      {/* Vercel Speed Insights */}
+      <SpeedInsights />
     </>
   );
 }
